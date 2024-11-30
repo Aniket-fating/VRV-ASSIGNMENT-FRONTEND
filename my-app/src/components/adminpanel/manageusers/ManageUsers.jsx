@@ -748,7 +748,7 @@ const ManageUsers = () => {
                   onClick={() => handlePageClick(index + 1)}
                   style={{
                     backgroundColor:
-                      currentPage === index + 1 ? "#1e6e99" : "#2e86c1",
+                      currentPage === index + 1 ? "#131b6b" : "#4e5be6",
                   }}
                 >
                   {index + 1}

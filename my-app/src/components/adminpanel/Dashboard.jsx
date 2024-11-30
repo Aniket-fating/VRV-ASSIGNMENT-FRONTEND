@@ -21,7 +21,7 @@ import img10 from "../../media/avatars/Avatar10.png";
 
 // Styled Components
 const DashboardContainer = styled.div`
-  width: 100vw;
+  width: auto;
   display: flex;
  
   margin-top:0.8rem;
@@ -34,12 +34,12 @@ const DashboardContainer = styled.div`
 `;
 
 const SidebarContainer = styled.div`
-  width: 15vw;
+  width: 14vw;
   height: 100%;
 `;
 
 const MainContent = styled.div`
-  width: 85vw;
+  width: 86vw;
   height: 100%;
    padding: 20px;
    

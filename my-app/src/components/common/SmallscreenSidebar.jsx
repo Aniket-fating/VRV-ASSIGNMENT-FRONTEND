@@ -31,7 +31,7 @@ const Menu = styled.ul`
 `;
 
 const MenuItem = styled.li`
-  width: 100%;
+ 
   display: flex;
   align-items: center;
   padding: 20px;
