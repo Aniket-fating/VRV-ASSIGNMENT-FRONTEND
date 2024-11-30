@@ -1,4 +1,4 @@
-VRV Security Frontend Assignment
+VRV Frontend Assignment
 This repository contains the frontend code for my project, which I developed as part of the VRV Security assignment for the Frontend Intern position. This project uses React.js and focuses on creating a user-friendly and responsive Role-Based Access Control (RBAC) interface.
 
 Project Overview
@@ -33,7 +33,7 @@ git clone https://github.com/Aniket-fating/VRV-ASSIGNMENT-FRONTEND.git
 2. Navigate to the Project Folder
 Move into the project directory:
 
-- cd VRV-Security-Frontend-Assignment/ 
+- cd VRV-Assignment-Frontend/ 
 - cd my-app/
 3. Install Dependencies
 Install all the required dependencies using npm:
@@ -50,4 +50,4 @@ If you encounter any issues or need further clarification, feel free to contact 
 
 Email: fatinganiket8@gmail.com
 Phone: +91 9119462195
-Thankyou
+Thank you
